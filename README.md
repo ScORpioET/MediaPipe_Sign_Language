@@ -1,1 +1,1 @@
-# MediaPipe_Sign_Language
+Sign_Language_Detection
